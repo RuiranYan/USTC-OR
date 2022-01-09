@@ -1,0 +1,3 @@
+ 使用MATLAB运行运行NewtonMethod.m文件，即可得到结果，所使用的MATLAB必须带有Symbolic Math Toolbox
+ 
+ 可以修改f.m,NewtonMethod.m文件自定义优化目标以及参数，具体修改方式见报告中的“程序说明”内容
